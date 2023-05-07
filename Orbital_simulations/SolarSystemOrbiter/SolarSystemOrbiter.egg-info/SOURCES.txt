@@ -1,0 +1,9 @@
+README.md
+setup.py
+SolarSystemOrbiter/__init__.py
+SolarSystemOrbiter/sso.py
+SolarSystemOrbiter.egg-info/PKG-INFO
+SolarSystemOrbiter.egg-info/SOURCES.txt
+SolarSystemOrbiter.egg-info/dependency_links.txt
+SolarSystemOrbiter.egg-info/requires.txt
+SolarSystemOrbiter.egg-info/top_level.txt
